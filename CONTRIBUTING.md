@@ -2,11 +2,9 @@
 
 Thank you for taking interest in contributing to SQLPad!
 
-SQLPad is a legacy project and is in maintenance mode. Please only submit issues or PRs for existing functionality.
-
 ### Security Disclosure
 
-For the safe disclosure of security bugs please email rick.bergfalk@gmail.com directly.
+For the safe disclosure of security bugs please email vadimkholodilo@gmail.com directly.
 
 ## License
 

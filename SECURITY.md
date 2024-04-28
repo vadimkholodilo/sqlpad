@@ -6,4 +6,4 @@ Only the latest release is supported. Fixes are not ported back to prior major v
 
 ## Reporting a Vulnerability
 
-Please report to rick.bergfalk@gmail.com.
+Please report to vadimkholodilo@gmail.com.
